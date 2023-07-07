@@ -1,0 +1,92 @@
+/* cores{
+    color: #1f2846;
+    color: #717891;
+} */
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+}
+
+body{
+    background-color: #111627;
+}
+
+.logo-text{
+    font-family: 'Audiowide', cursive;
+    font-weight: 300;
+}
+
+.top-page{
+    width: 100%;
+    padding: 5%;
+    background-color: #daa520;
+    box-shadow: 0px 0px 25px #DAA520;
+    color: #111627;
+}
+
+.carteira{
+    width: 30%;
+    padding: 3%;
+    color: #DAA520;
+    background-color: transparent;
+    border: 2px solid;
+    border-radius: 15px;
+    box-shadow: 0px 0px 30px #DAA520;
+    background-color: #1f2846;
+}
+
+.titulo-carteira{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.add-conta{
+    align-items: center;
+    background-color: rgb(218, 165, 32);
+    width: 25%;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 3px;
+    color: #242835;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 0px 0px 25px #DAA520;
+}
+
+button{
+    align-items: center;
+    background-color: rgb(218, 165, 32);
+    width: 15%;
+    padding: 17px;
+    border: none;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 900;
+    letter-spacing: 3px;
+    color: #242835;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: 0px 0px 25px #DAA520;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+button:hover{
+    background-color: transparent;
+    color: #DAA520;
+    border: 2px solid #DAA520;
+}
+
+/* .saldo{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+} 
+
+.top-page h1{
+    text-shadow: 0px 0px 25px #111627; 
+} */
+
